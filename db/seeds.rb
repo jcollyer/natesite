@@ -5,3 +5,12 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+puts "seeding...this heere"
+
+Biblebook.create(
+  name: "genesis",
+  order: 1
+)
+
+puts "Complete! yous"
