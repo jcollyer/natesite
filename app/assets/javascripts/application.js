@@ -17,6 +17,5 @@
 //= require ember-data
 //= require_self
 //= require natesite
-Natesite = Ember.Application.create();
+// Natesite = Ember.Application.create();
 
-//= require_tree .

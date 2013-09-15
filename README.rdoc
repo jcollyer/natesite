@@ -1,11 +1,10 @@
-nateSite
-=========
+# nateSite
 
 rails 4, ember 1, pg audio player app.
 
 
   clone
-  cd App into folder
+  cd natesite into folder
   > rails s
   localhost:3000
-www.nateholdridge.com
+demo: www.nateholdridge.com
