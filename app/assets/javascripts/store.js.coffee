@@ -5,3 +5,14 @@ Natesite.Store = DS.Store.extend
 
 DS.RESTAdapter.reopen
   namespace: "api"
+
+
+biblebooks = [
+  id: '1'
+  name: "genisin"
+  order: { 1 }
+,
+  id: '2'
+  name: "leviticis"
+  order: { 2 }
+ ]

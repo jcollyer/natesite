@@ -33,7 +33,7 @@ group :doc do
 end
 
 
-gem "ember-rails"
+gem 'ember-rails'
 gem 'ember-source', '1.0.0' # or the version you need
 gem "foreman"
 gem "uglifier", ">= 1.3.0"
